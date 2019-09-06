@@ -1,5 +1,5 @@
 {
-  "contest":{
+  "contest":[{
     "contestId":"f6dd070e-0320-498c-ae26-5d93d79c12da",
     "name":"4th Quarter Season Draw",
     "description":"Fourth Quarter of the Season",
@@ -68,5 +68,5 @@
       "userAccepted":true,
       "acceptedDate":"2019-09-06T20:18:16.3359546+00:00"
     }
-  }
+  }]
 }
